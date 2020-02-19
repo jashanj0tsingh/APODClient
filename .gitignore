@@ -1,0 +1,9 @@
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+target/
